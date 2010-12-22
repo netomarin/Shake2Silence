@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    
+    <string name="app_name">Shake 2 Silence</string>
+
+<string name="config_title">Configurations</string>
+<string name="shake_message">Your phone went to the silent mode!
+</string>
+    <string name="back_normal_mode">Your phone went back to the normal mode!</string>
+    <string name="activate_pref_summary">Check here to activate Shake 2 Silence</string>
+    <string name="activate_pref_key">Activate</string>
+    <string name="keep_mode_pref_key">Keep Silent Mode</string>
+    <string name="keep_mode_pref_summary">Check here to keep the phone on silent mode after the call.</string>
+</resources>

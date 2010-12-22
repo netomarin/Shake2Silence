@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+	<PreferenceCategory android:title="First Category">
+		<CheckBoxPreference
+                        android:title="Checkbox Preference"
+                        android:defaultValue="true"
+                        android:summary="This preference can be true or false"
+                        android:key="checkboxPref" />
+	</PreferenceCategory>
+</PreferenceScreen>

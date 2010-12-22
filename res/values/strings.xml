@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    
+    <string name="app_name">Shake 2 Silence</string>
+
+<string name="config_title">Configurações</string>
+<string name="shake_message">Seu telefone está no modo silencioso!</string>
+    <string name="back_normal_mode">Seu telefone voltou para o modo normal!</string>
+    <string name="activate_pref_summary">Selecione essa opção para ativar o Shake 2 Silence.</string>
+    <string name="activate_pref_key">Ativado</string>
+    <string name="keep_mode_pref_key">Manter Modo Silencioso</string>
+    <string name="keep_mode_pref_summary">Selecione essa opção para manter seu telefone no modo silencioso após a chamada.</string>
+</resources>

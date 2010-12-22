@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+<CheckBoxPreference android:defaultValue="true" android:key="activateCheckBox" android:title="@string/activate_pref_key" android:summary="@string/activate_pref_summary"></CheckBoxPreference>
+<CheckBoxPreference android:defaultValue="true" android:key="keepSilenceCheckBox" android:title="@string/keep_mode_pref_key" android:summary="@string/keep_mode_pref_summary"></CheckBoxPreference>
+
+</PreferenceScreen>
